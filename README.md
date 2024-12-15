@@ -12,7 +12,7 @@ Features.
 
   -Java with Spring Boot</br>
   -Maven for dependency management</br>
-  -H2 Database (or another RDBMS, depending on your configuration)</br>
+  -Postgres Database</br>
 
 <h4>Frontend</h4>
 
