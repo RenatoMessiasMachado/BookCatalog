@@ -44,7 +44,7 @@ cd BookCatalog-main/backend
 Configure the database in application.properties. For example:
 
 ```
-spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.url=jdbc:postgresql://localhost:5432/:testdb
 spring.datasource.username=sa
 spring.datasource.password=password
 spring.jpa.hibernate.ddl-auto=update
